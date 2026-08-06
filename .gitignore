@@ -1,0 +1,5 @@
+*.pb.go
+generated/
+.idea/
+*.iml
+.DS_Store
